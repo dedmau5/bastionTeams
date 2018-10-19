@@ -1,0 +1,16 @@
+{
+    "name": "bastionTeams",
+    "version": "0.0.1",
+    "description": "bot for MS Teams",
+    "author": "Joar Ekendahl",
+    "owner": "Joar Ekendahl",
+    "license": "none",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dedmau5/bastionTeams"
+    },
+    "dependencies": {
+        "botbuilder-teams": "0.2.3"
+    },
+    "devDependencies": {}
+}
